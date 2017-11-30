@@ -1,0 +1,1 @@
+this is files gives information about custome modules integration!
